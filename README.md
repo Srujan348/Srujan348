@@ -1,23 +1,21 @@
-```
 <!--
   GitHub Profile README
-  Replace YOUR_GITHUB_USERNAME, YOUR_EMAIL, and social links.
-  Design inspired by 21st.dev's modern dark UI and gradient components.
+  Designed with modern dark UI aesthetics, skillicons, and GitHub stats.
 -->
-```
+
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,45:312e81,100:06b6d4&height=190&section=header&text=Srujan&fontSize=54&fontColor=ffffff&fontAlignY=36&desc=Developer%20%7C%20AI%20%26%20ML%20Enthusiast%20%7C%20Builder&descAlignY=58&descSize=16" width="100%" alt="Srujan profile banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,45:312e81,100:06b6d4&height=190&section=header&text=Srujan%20S&fontSize=54&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20Developer%20%7C%20Competitive%20Programmer%20%7C%20ISE%20Student&descAlignY=58&descSize=16" width="100%" alt="Srujan profile banner" />
 
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=22D3EE&center=true&vCenter=true&width=650&lines=Turning+ideas+into+working+software;Exploring+AI%2C+ML+%26+web+development;Building+useful+projects+one+commit+at+a+time" alt="Animated introduction" />
+  <a href="https://github.com/Srujan348">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=22D3EE&center=true&vCenter=true&width=650&lines=Building+robust+backends+%26+modern+UIs;Solving+complex+algorithmic+challenges;Exploring+Cloud%2C+AI+%26+Systems+Engineering" alt="Animated introduction" />
   </a>
 
   <p>
-    <a href="https://github.com/YOUR_GITHUB_USERNAME?tab=repositories">
+    <a href="https://github.com/Srujan348?tab=repositories">
       <img src="https://img.shields.io/badge/Explore-My%20Projects-0891b2?style=for-the-badge&logo=github&logoColor=white" alt="My projects" />
     </a>
-    <a href="mailto:YOUR_EMAIL">
+    <a href="mailto:ssrujan348@gmail.com">
       <img src="https://img.shields.io/badge/Contact-Get%20in%20touch-4f46e5?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact me" />
     </a>
   </p>
@@ -28,13 +26,13 @@
 
 ## 👋 About Me
 
-Hi, I'm **Srujan** — a developer who enjoys creating practical applications and exploring how **Artificial Intelligence, Machine Learning, and web technologies** can solve real-world problems.
+Hi, I'm **Srujan S** — an Information Science & Engineering student at GM University in Davangere, Karnataka. I am passionate about building robust backend architectures, dynamic user interfaces, and solving complex algorithmic challenges. 
 
-- 🔭 Building projects across AI/ML, Python, and web development.
-- 🌱 Learning more about intelligent applications, APIs, and full-stack development.
-- 🧠 Interested in computer vision, automation, and AI-powered tools.
-- 🛠️ I enjoy taking an idea from a simple prototype to a useful application.
-- 🤝 Open to collaborating on interesting projects and learning from other developers.
+- 🔭 **Building:** Full-stack web applications (React, Flask, Spring Boot) and hardware/IoT robotics (Arduino).
+- 🧠 **Solving:** Competitive programming challenges on LeetCode using C++, Java, and Python 3 (Dynamic Programming, Graph Theory, Bit Manipulation).
+- 🌱 **Learning:** Completed specialized training in Quantum Computing & Algorithms (ACM India & Gyanspring Foundation).
+- 🛠️ **Hackathons:** Built an AI-Powered Smart Campus Assistant integrating the Gemini API during the AAVISHKARA '26 hackathon.
+- 💼 **Beyond Code:** Bilingual (English & Kannada) with hands-on experience managing business operations and wholesale logistics.
 
 ---
 
@@ -43,18 +41,16 @@ Hi, I'm **Srujan** — a developer who enjoys creating practical applications an
 <div align="center">
 
 **Languages**
+<br>
+<img src="https://skillicons.dev/icons?i=cpp,java,python,ts,javascript,html,css" alt="C++, Java, Python, TypeScript, JavaScript, HTML, CSS" />
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,javascript" alt="C, C++, Python, HTML, CSS, JavaScript" />
+**Frameworks, Libraries & Databases**
+<br>
+<img src="https://skillicons.dev/icons?i=react,tailwind,flask,spring,mongodb,kafka" alt="React, Tailwind, Flask, Spring Boot, MongoDB, Kafka" />
 
-**Frameworks, Tools & Platforms**
-
-<img src="https://skillicons.dev/icons?i=flask,git,github,vscode,idea,mongodb" alt="Flask, Git, GitHub, VS Code, IntelliJ IDEA, MongoDB" />
-
-**AI / Machine Learning**
-
-<img src="https://img.shields.io/badge/Machine%20Learning-Models-7c3aed?style=for-the-badge" alt="Machine Learning" />
-<img src="https://img.shields.io/badge/Computer%20Vision-CNN-0891b2?style=for-the-badge" alt="Computer Vision and CNN" />
-<img src="https://img.shields.io/badge/API%20Integration-REST-0f766e?style=for-the-badge" alt="API integration" />
+**Tools, Cloud & Hardware**
+<br>
+<img src="https://skillicons.dev/icons?i=aws,gcp,git,github,vscode,arduino" alt="AWS, GCP, Git, GitHub, VS Code, Arduino" />
 
 </div>
 
@@ -62,67 +58,47 @@ Hi, I'm **Srujan** — a developer who enjoys creating practical applications an
 
 ## 🚀 Featured Projects
 
-<table>
+<table width="100%">
   <tr>
     <td width="50%" valign="top">
-
-### 🌿 AI Plant Doctor
-
-An AgriTech concept that uses plant-leaf images and a CNN-based workflow to help identify plant diseases and provide useful next steps.
-
-**Focus:** Computer Vision · CNN · Flask · Plant Health
+      <h3>🏛️ Midas Core</h3>
+      <p>A robust financial transaction processor implementing validation rules, balance updates, and stream processing.</p>
+      <p><strong>Focus:</strong> Java Spring Boot &middot; Apache Kafka &middot; H2 Database &middot; JPA</p>
     </td>
     <td width="50%" valign="top">
-
-### 🌦️ Advanced Weather App
-
-A weather application concept with a Python/Flask backend and a web interface, designed to bring forecasts and environmental information together.
-
-**Focus:** Python · Flask · HTML · CSS · JavaScript · APIs
+      <h3>🤖 AI Smart Campus Assistant</h3>
+      <p>A role-based dashboard application built under a single-day hackathon deadline featuring live database interactions.</p>
+      <p><strong>Focus:</strong> Python Flask &middot; Google Gemini API &middot; MongoDB</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-
-### 🏡 House Price Prediction
-
-A machine-learning project exploring how property features can be used to estimate house prices.
-
-**Focus:** Python · Machine Learning · Data Analysis
-
+      <h3>🌐 ResolveAI & GMinsta</h3>
+      <p>Full-stack platforms demonstrating system architecture, REST APIs, grievance redressal flows, and social media UML modeling.</p>
+      <p><strong>Focus:</strong> React &middot; Tailwind CSS &middot; Python/Flask &middot; Streamlit</p>
     </td>
     <td width="50%" valign="top">
-
-### 🔥 Fire Detection
-
-A project focused on detecting fire-related events and exploring how software can support faster alerts and awareness.
-
-**Focus:** Detection Systems · Python / ML Concepts
-
-  </td>
+      <h3>🔥 DIY Fire-Fighting Robot</h3>
+      <p>An IoT hardware project capable of automated sensor polling, motor direction control, and automated water spraying.</p>
+      <p><strong>Focus:</strong> Arduino Uno &middot; L298N Motor Driver &middot; IR Sensors</p>
+    </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-
-### 🛒 E-commerce Website
-
-A web development project focused on presenting products and creating a simple online shopping experience.
-
-**Focus:** HTML · CSS · JavaScript
+      <h3>🗄️ C++ ISAM File System</h3>
+      <p>A systems-level military command file management engine incorporating variable-length record buffers and direct random access.</p>
+      <p><strong>Focus:</strong> C++ &middot; Systems Engineering &middot; Disk I/O Optimization</p>
     </td>
     <td width="50%" valign="top">
-
-### 💡 More Experiments
-
-I also work through programming challenges and prototypes to strengthen problem-solving skills and learn new technologies.
-
-**Focus:** C/C++ · Algorithms · Continuous Learning
+      <h3>🗺️ A* Route Optimization</h3>
+      <p>Algorithm analysis and architecture documentation on graph search pathfinding applied to Google Maps navigation systems.</p>
+      <p><strong>Focus:</strong> Graph Theory &middot; Algorithms &middot; Technical Writing</p>
     </td>
   </tr>
 </table>
 
-> To link a project to its repository, change the heading to:
-> `### [AI Plant Doctor](https://github.com/YOUR_GITHUB_USERNAME/ai-plant-doctor)`
+> To link a project to its repository, wrap the title in an anchor tag like this:
+> `<h3><a href="https://github.com/Srujan348/midas-core">🏛️ Midas Core</a></h3>`
 
 ---
 
@@ -130,24 +106,15 @@ I also work through programming challenges and prototypes to strengthen problem-
 
 <div align="center">
 
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight&bg_color=0d1117&title_color=22d3ee&icon_color=818cf8&text_color=c9d1d9" alt="GitHub statistics" />
-
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=22d3ee&text_color=c9d1d9" alt="Most used programming languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Srujan348&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight&bg_color=0d1117&title_color=22d3ee&icon_color=818cf8&text_color=c9d1d9" alt="GitHub statistics" />
+  
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srujan348&layout=compact&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=22d3ee&text_color=c9d1d9" alt="Most used programming languages" />
 
   <br />
 
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&hide_border=true&background=0D1117&ring=22D3EE&fire=818CF8&currStreakLabel=22D3EE&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub contribution streak" />
+  <img src="https://streak-stats.demolab.com?user=Srujan348&hide_border=true&background=0D1117&ring=22D3EE&fire=818CF8&currStreakLabel=22D3EE&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub contribution streak" />
 
 </div>
-
----
-
-## 🎯 Currently Exploring
-
-- Building clean, responsive web interfaces.
-- Connecting frontend applications with Python backends and APIs.
-- Applying machine learning and computer vision to practical problems.
-- Improving code quality, debugging, and problem-solving skills.
 
 ---
 
@@ -155,23 +122,23 @@ I also work through programming challenges and prototypes to strengthen problem-
 
 <div align="center">
 
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/Srujan348">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
+  <a href="https://www.linkedin.com/in/srujan-s-419098363/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:ssrujan348@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 
   <br /><br />
 
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=0891b2&label=Profile%20views" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Srujan348&style=flat-square&color=0891b2&label=Profile%20views" alt="Profile views" />
 
-  <p><i>“Build with curiosity. Improve with every commit.”</i></p>
+  <p><i>“Optimizing code, building solutions, and learning every day.”</i></p>
 
 </div>
 
