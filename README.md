@@ -136,7 +136,7 @@ Hi, I'm **Srujan S** — an Information Science & Engineering student at GM Univ
 
   <br /><br />
 
-  <img src="https://komarev.com/ghpvc/?username=Srujan348&style=flat-square&color=0891b2&label=Profile%20views" alt="Profile views" />
+ 
 
   <p><i>“Optimizing code, building solutions, and learning every day.”</i></p>
 
