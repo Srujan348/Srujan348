@@ -1,10 +1,10 @@
-
+```
 <!--
   GitHub Profile README
   Replace YOUR_GITHUB_USERNAME, YOUR_EMAIL, and social links.
   Design inspired by 21st.dev's modern dark UI and gradient components.
 -->
-
+```
 <div align="center">
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,45:312e81,100:06b6d4&height=190&section=header&text=Srujan&fontSize=54&fontColor=ffffff&fontAlignY=36&desc=Developer%20%7C%20AI%20%26%20ML%20Enthusiast%20%7C%20Builder&descAlignY=58&descSize=16" width="100%" alt="Srujan profile banner" />
@@ -71,7 +71,6 @@ Hi, I'm **Srujan** — a developer who enjoys creating practical applications an
 An AgriTech concept that uses plant-leaf images and a CNN-based workflow to help identify plant diseases and provide useful next steps.
 
 **Focus:** Computer Vision · CNN · Flask · Plant Health
-
     </td>
     <td width="50%" valign="top">
 
@@ -80,7 +79,6 @@ An AgriTech concept that uses plant-leaf images and a CNN-based workflow to help
 A weather application concept with a Python/Flask backend and a web interface, designed to bring forecasts and environmental information together.
 
 **Focus:** Python · Flask · HTML · CSS · JavaScript · APIs
-
     </td>
   </tr>
   <tr>
@@ -101,7 +99,7 @@ A project focused on detecting fire-related events and exploring how software ca
 
 **Focus:** Detection Systems · Python / ML Concepts
 
-    </td>
+  </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
@@ -111,7 +109,6 @@ A project focused on detecting fire-related events and exploring how software ca
 A web development project focused on presenting products and creating a simple online shopping experience.
 
 **Focus:** HTML · CSS · JavaScript
-
     </td>
     <td width="50%" valign="top">
 
@@ -120,7 +117,6 @@ A web development project focused on presenting products and creating a simple o
 I also work through programming challenges and prototypes to strengthen problem-solving skills and learn new technologies.
 
 **Focus:** C/C++ · Algorithms · Continuous Learning
-
     </td>
   </tr>
 </table>
