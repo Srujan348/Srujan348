@@ -1,23 +1,70 @@
-<h1 align="center">Hi 👋, I'm Srujan S</h1>
-<h3 align="center">My name is Srujan S, and I am a B.Tech student studying Information Science and Engineering at GM University. I am a builder and problem-solver at heart, heavily involved in artificial intelligence, full-stack development, and competitive programming.My core passion lies in AI, machine learning, and computer vision. I have engineered deep learning workflows for plant leaf disease diagnosis, experimented with agentic AI decision frameworks, and integrated Gemini APIs into my applications. I am also deeply interested in the theoretical side of computer science, exploring everything from principal component analysis and decision trees to finite state machines and A* pathfinding algorithms. Recently, in August 2026, I put these skills to the test by developing an AI-Powered Smart Campus Assistant prototype for an internal hackathon in my department.</h3>
+# Hi there, I'm Srujan S! 👋
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=srujan348" alt="srujan348" /></a> </p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Srujan%20S&fontSize=80&animation=fadeIn" alt="Header" />
+</div>
 
-- 🔭 I’m currently working on **ai voice generator**
+I am an **Information Science & Engineering** student at GM University, passionate about building robust backend architectures, dynamic user interfaces, and solving complex algorithmic challenges. Whether I'm designing modern SaaS landing pages with React and Tailwind or building AI-powered web backends, I love turning ideas into functional, scalable software.
 
-- 👨‍💻 All of my projects are available at [https://github.com/Srujan348](https://github.com/Srujan348)
+---
 
-- 📫 How to reach me **ssrujan348@gmail.com**
+### 🚀 About Me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/srujan-s-419098363/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="srujan-s-419098363/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ssrujan348" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ssrujan348" height="30" width="40" /></a>
-</p>
+- 🎓 Pursuing a B.Tech in Information Science and Engineering at GM University.
+- 💻 Actively solving competitive programming challenges on **LeetCode**, focusing on dynamic programming, graph theory, and sliding window techniques.
+- 🌐 Experienced in full-stack development, ranging from custom UI components (React, Shadcn, Tailwind) to robust backends (Python, Flask, Java Spring Boot).
+- 🤖 Integrating Generative AI into applications, including an AI-Powered Smart Campus Assistant built during the AAVISHKARA '26 Hackathon.
+- 🔧 Beyond software, I dabble in hardware (Arduino-based robotics) and have hands-on experience in business operations and management.
+- 📚 Continually expanding my knowledge in areas like Quantum Computing and Cloud Architecture (AWS/GCP).
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=srujan348&show_icons=true&locale=en" alt="srujan348" /></p>
+### 💻 Tech Stack & Tools
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srujan348&" alt="srujan348" /></p>
+**Languages:** 
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+
+**Frontend:** 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+**Backend & Databases:** 
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) 
+![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
+
+**Cloud & Others:** 
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![Gemini API](https://img.shields.io/badge/Gemini%20API-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
+---
+
+### 🏗️ Featured Projects
+
+*   **Midas Core**: A robust financial transaction processor built with Java Spring Boot, leveraging Apache Kafka for message streaming and H2 for relational entity persistence.
+*   **AI Smart Campus Assistant**: A role-based dashboard application integrating the Google Gemini API, Flask, and MongoDB. Built under a tight 24-hour deadline for the AAVISHKARA '26 Hackathon.
+*   **ResolveAI & GMinsta**: Full-stack platforms demonstrating system architecture, from grievance redressal flows to social media UML modeling and MongoDB schema design.
+*   **Modern UI Templates**: Building responsive SaaS landing pages and dashboard interfaces using React, Tailwind CSS, and Shadcn UI.
+*   **C++ Systems Engineering**: A custom file management engine featuring Indexed Sequential Access Method (ISAM) and direct random access for optimized I/O.
+*   **IoT Fire-Fighting Robot**: A hardware project utilizing an Arduino Uno, IR flame sensors, and motor drivers for automated response.
+
+---
+
+### 📫 Connect with Me
+
+<!-- Add your social links below! -->
+- LinkedIn: [linkedin.com/in/yourprofile](#)
+- LeetCode: [leetcode.com/yourprofile](#)
+- Email: your.email@example.com
+
+<br/>
+<div align="center">
+  <i>"Optimizing code, building solutions, and learning every day."</i>
+</div>
